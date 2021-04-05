@@ -1,0 +1,390 @@
+header {
+  margin-bottom: -150px;
+}
+
+h1 {
+  color: rgb(70, 69, 69);
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 40px;
+  margin-left: 140px;
+}
+
+.info {
+  display: inline-flex;
+  margin-left: 140px;
+  padding-bottom: -100;
+}
+
+.info p {
+  font-size: 12px;
+}
+
+body {
+  align-content: center;
+  background-color: rgb(248, 238, 240);
+}
+
+.caixas {
+  width: 50px;
+  height: 55px;
+  border: black solid 1px;
+  border-radius: 10px;
+}
+
+div {
+  margin-right: 5px;
+  margin-top: 2px;
+}
+
+h2 {
+  color: rgb(70, 69, 69);
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+  font-size: 32px;
+  margin-top: auto;
+}
+
+h3 {
+  color: rgb(90, 89, 89);
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: -10px;
+  margin-left: -30px;
+}
+
+p {
+  font-family: "Noto Sans JP", sans-serif;
+  color: rgb(70, 69, 69);
+  font-size: 10px;
+  margin-top: -75px;
+  margin-left: 5px;
+}
+
+.coluna2 {
+  margin-left: 55px;
+  flex-direction: row;
+  margin-top: -354px;
+}
+
+.coluna3 {
+  margin-left: 110px;
+  flex-direction: row;
+  margin-top: -236px;
+}
+
+.coluna4 {
+  margin-left: 165px;
+  flex-direction: row;
+  margin-top: -118px;
+}
+
+.coluna5 {
+  margin-left: 220px;
+  flex-direction: row;
+  margin-top: -235px;
+}
+
+.coluna6 {
+  margin-left: 275px;
+  flex-direction: row;
+  margin-top: -236px;
+}
+
+.coluna7 {
+  margin-left: 330px;
+  flex-direction: row;
+  margin-top: -236px;
+}
+
+.coluna8 {
+  margin-left: 385px;
+  flex-direction: row;
+  margin-top: -236px;
+}
+
+.coluna9 {
+  margin-left: 440px;
+  flex-direction: row;
+  margin-top: -236px;
+}
+
+.coluna10 {
+  margin-left: 495px;
+  flex-direction: row;
+  margin-top: -236px;
+}
+
+.coluna11 {
+  margin-left: 550px;
+  flex-direction: row;
+  margin-top: -236px;
+}
+
+.coluna12 {
+  margin-left: 605px;
+  flex-direction: row;
+  margin-top: -236px;
+}
+
+.coluna13 {
+  margin-left: 660px;
+  flex-direction: row;
+  margin-top: -354px;
+}
+
+.coluna14 {
+  margin-left: 715px;
+  flex-direction: row;
+  margin-top: -354px;
+}
+
+.coluna15 {
+  margin-left: 770px;
+  flex-direction: row;
+  margin-top: -354px;
+}
+
+.coluna16 {
+  margin-left: 825px;
+  flex-direction: row;
+  margin-top: -354px;
+}
+
+.coluna17 {
+  margin-left: 880px;
+  flex-direction: row;
+  margin-top: -354px;
+}
+
+.coluna18 {
+  margin-left: 935px;
+  flex-direction: row;
+  margin-top: -413px;
+}
+
+.coluna19 {
+  margin-left: 165px;
+  display: flex;
+}
+
+.coluna20 {
+  margin-left: 165px;
+  display: flex;
+  margin-top: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: -85px;
+}
+
+.caixash {
+  width: 50px;
+  height: 55px;
+  border: black solid 1px;
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a :hover {
+  color: white;
+  transition: 0.5s;
+}
+
+.coluna2 .caixas {
+  background-color: rgb(248, 248, 174);
+}
+
+.coluna3 .caixas {
+  background-color: pink;
+}
+
+.coluna4 .caixas {
+  background-color: pink;
+}
+
+.coluna5 .caixas {
+  background-color: pink;
+}
+
+.coluna6 .caixas {
+  background-color: pink;
+}
+
+.coluna7 .caixas {
+  background-color: pink;
+}
+
+.coluna8 .caixas {
+  background-color: pink;
+}
+
+.coluna9 .caixas {
+  background-color: pink;
+}
+
+.coluna10 .caixas {
+  background-color: pink;
+}
+
+.coluna11 .caixas {
+  background-color: pink;
+}
+
+.coluna12 .caixas {
+  background-color: pink;
+}
+
+.coluna17 .caixas {
+  background-color: rgb(214, 214, 250);
+}
+
+.coluna18 .caixas {
+  background-color: rgb(97, 170, 253);
+}
+
+.coluna19 .caixash {
+  background-color: lightblue;
+}
+
+.coluna20 .caixash {
+  background-color: rgb(227, 146, 247);
+}
+
+.NM {
+  background-color: rgb(185, 241, 185);
+}
+
+.MA {
+  background-color: rgb(248, 205, 124);
+}
+
+.SM {
+  background-color: rgb(106, 185, 106);
+}
+
+.OM {
+  background-color: rgb(199, 196, 196);
+}
+
+footer {
+  background-color: rgb(250, 223, 228);
+  text-align: left;
+  width: 1000px;
+  height: 200px;
+}
+
+footer ul {
+  text-align: left;
+  margin-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+.um,
+.dois,
+.tres,
+.quatro,
+.cinco {
+  color: rgb(70, 69, 69);
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 16px;
+  width: 150px;
+  height: 50px;
+}
+
+.cor1 {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(185, 241, 185);
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor2 {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(97, 170, 253);
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor3 {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(248, 205, 124);
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor4 {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(248, 248, 174);
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor5 {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(106, 185, 106);
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor6 {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(214, 214, 250);
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor7 {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(199, 196, 196);
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor8 {
+  width: 35px;
+  height: 5px;
+  background-color: pink;
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor9 {
+  width: 35px;
+  height: 5px;
+  background-color: lightblue;
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
+
+.cor10 {
+  width: 35px;
+  height: 5px;
+  background-color: rgb(227, 146, 247);
+  border-left: rgb(70, 69, 69) solid 1px;
+  border-bottom: rgb(70, 69, 69) solid 1px;
+  border-radius: 10px;
+}
