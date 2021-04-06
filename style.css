@@ -392,3 +392,27 @@ footer ul {
   border-bottom: rgb(70, 69, 69) solid 1px;
   border-radius: 10px;
 }
+
+.retornar {
+  width: 200px;
+  height: 30px;
+  background-color:pink;
+  text-align: center;
+  border-radius: 20px;
+  padding-top: 5px;
+  border-bottom: #323232 solid 2px;
+  font-style: bold;
+  margin-top: 10px;
+}
+
+.retornar a {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #323232;
+  text-decoration: none;
+}
+
+.retornar:hover {
+  background-color: rgb(218, 165, 174);
+  transition: .5s;
+  cursor: pointer;
+}
