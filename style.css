@@ -49,6 +49,11 @@ h3 {
   font-family: "Noto Sans JP", sans-serif;
   text-align: center;
   font-size: 24px;
+<<<<<<< Codesandbox
+  margin-bottom: -10px;
+=======
+  margin-left: -30px;
+>>>>>>> GitHub
   margin-left: -30px;
 }
 
