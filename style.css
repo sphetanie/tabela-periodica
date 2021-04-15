@@ -49,11 +49,7 @@ h3 {
   font-family: "Noto Sans JP", sans-serif;
   text-align: center;
   font-size: 24px;
-<<<<<<< Codesandbox
   margin-bottom: -10px;
-=======
-  margin-left: -30px;
->>>>>>> GitHub
   margin-left: -30px;
 }
 
@@ -279,7 +275,7 @@ footer {
   background-color: rgb(250, 223, 228);
   text-align: left;
   width: 1000px;
-  height: 150px;
+  height: 200px;
 }
 
 footer ul {
@@ -396,7 +392,7 @@ footer ul {
 .retornar {
   width: 200px;
   height: 30px;
-  background-color:pink;
+  background-color: pink;
   text-align: center;
   border-radius: 20px;
   padding-top: 5px;
@@ -406,13 +402,13 @@ footer ul {
 }
 
 .retornar a {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   color: #323232;
   text-decoration: none;
 }
 
 .retornar:hover {
   background-color: rgb(218, 165, 174);
-  transition: .5s;
+  transition: 0.5s;
   cursor: pointer;
 }
